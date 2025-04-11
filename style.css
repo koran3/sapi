@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    background: #f4f4f4;
+    text-align: center;
+    margin-top: 50px;
+  }
+  .container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #aaa;
+    width: 300px;
+    margin: auto;
+    text-align: left;
+  }
+  input, button {
+    width: 100%;
+    padding: 10px;
+    margin: 6px 0;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  button {
+    background: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  button:hover {
+    background: #218838;
+  }
+  #hasil {
+    margin-top: 10px;
+    font-weight: bold;
+  }
