@@ -1,14 +1,14 @@
 body {
     font-family: sans-serif;
-    background: #f4f4f4;
+    background: #00ff95;
     text-align: center;
     margin-top: 50px;
   }
   .container {
-    background: #fff;
+    background: #ffffff;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px #aaa;
+    box-shadow: 0 0 10px #ff0000;
     width: 300px;
     margin: auto;
     text-align: left;
@@ -19,16 +19,16 @@ body {
     margin: 6px 0;
     font-size: 16px;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
   }
   button {
-    background: #28a745;
-    color: white;
+    background: #00ff6a;
+    color: rgb(3, 0, 0);
     border: none;
     cursor: pointer;
   }
   button:hover {
-    background: #218838;
+    background: #4d0303;
   }
   #hasil {
     margin-top: 10px;
